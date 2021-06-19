@@ -1,0 +1,6 @@
+# Options +Indexes
+DirectoryIndex /index.php
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+ order allow,deny
+ deny from all
+</Files>
