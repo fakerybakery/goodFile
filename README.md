@@ -1,4 +1,5 @@
-
+| :warning: goodFile is no longer being updated. It still works with PHP 8.
+| ---
 
 
 ## IT IS ILLEGAL TO STRIP THE GOODFILE CREDIT FROM GOODFILE.
