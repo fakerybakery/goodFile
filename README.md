@@ -67,15 +67,17 @@ Please leave an issue.
 
 ## Legal
 
-It is illegal, unethical, and immoral to illegally remove attribution from goodFile. Please file an issue if you see an instace where goodFile is being used without attribution. Thanks!
+It is illegal, unethical, and immoral to illegall remove attribution from goodFile. Please file an issue if you see an instace where goodFile is being used without attribution. Thanks!
 
 If you wish to modify attribution, the least you can add is:
 ```
 <p><small>Powered by <a href="https://www.github.com/fakerybakery/goodFile" target="_blank">goodFile</a>.</small></p>
 ```
+(<p><small>Powered by <a href="https://www.github.com/fakerybakery/goodFile" target="_blank">goodFile</a>.</small></p>)
 
 or 
 
 ```
 <p><small>Powered with &hearts; by <a href="https://www.github.com/fakerybakery/goodFile" target="_blank">goodFile</a>.</small></p>
 ```
+(<p><small>Powered with &hearts; by <a href="https://www.github.com/fakerybakery/goodFile" target="_blank">goodFile</a>.</small></p>)
