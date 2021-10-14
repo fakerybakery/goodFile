@@ -76,7 +76,7 @@ $dirlist = preg_grep('/^([^.])/', scandir("$_SERVER[DOCUMENT_ROOT]$_SERVER[REQUE
 
 
 ?>
-    <p><b>&copy;2021-<?=date('Y')?>. All rights reserved.</b></p>
+    <p><b>&copy;<?=date('Y')?>. All rights reserved.</b></p>
     <p><small>Powered by <a href="https://www.github.com/fakerybakery/goodFile" target="_blank">goodFile on GitHub</a>.</small></p>
 </body>
 </html>
