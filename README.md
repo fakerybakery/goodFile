@@ -32,9 +32,10 @@ See the beautiful result!
 
 _Click to enlarge_
 
-## Important Note
+## Important Notes
 
 goodFile does **not** show hidden files (files starting with `.`)
+**Important Note:** goodFile must be installed in the root folder!!!
 
 ## Installing
 
@@ -58,6 +59,8 @@ PHP 7+ (compatible with PHP 8).
 ### Installing
 
 Download all files from this GitHub repo, upload the contents of the "src" folder into the **root directory** of your website.
+
+**Important Note:** goodFile must be installed in the root folder!!!
 
 **NOTE: Make sure the permissions on the `.htaccess` file are set to `644`!!!** Or, if you don't have chmod access or don't know how to use chmod, just go to `(your website)/.htaccess`. Make sure you see a `Forbidden` error or `403` error (or both).
 
