@@ -69,7 +69,7 @@ $dirlist = preg_grep('/^([^.])/', scandir("$_SERVER[DOCUMENT_ROOT]$_SERVER[REQUE
             }
         }
         if ($blank) {
-            echo '<i>No files found!</i>';
+            echo '<i>This directory is empty.</i>';
         }
     }
 // }
