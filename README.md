@@ -32,6 +32,10 @@ See the beautiful result!
 
 _Click to enlarge_
 
+## Important Note
+
+goodFile does **not** show hidden files (files starting with `.`)
+
 ## Installing
 
 **NOTE: On some systems, you may be required to show hidden files.**
@@ -41,6 +45,7 @@ On macOS, to toggle hidden files, type: `⌘` + `⇪` +`܂`.
 On Windows, to toggle hidden files, read: https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-10-97fbc472-c603-9d90-91d0-1166d1d9f4b5
 
 On Ubuntu, type `Control` + `H`.
+
 
 
 ### System Requirements
