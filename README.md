@@ -1,8 +1,9 @@
 # goodFile
-![goodFile logo](https://user-images.githubusercontent.com/76186054/122625126-5a8fb900-d058-11eb-8c18-7dae35d735d7.png)
-The best way to manage your files online!
-A simple PHP file manager
-_Click to enlarge_
+The new PHP-based way to view your files.
+## Overview
+**Welcome to goodFile, a better way to manage your files.** Almost everyone agrees that default file listings are _ugly_. But no more, with goodFile!
+
+goodFile is fast, easy, and secure with light and quick filename search.
 
 
 ## Table of Contents
@@ -45,7 +46,7 @@ On Ubuntu, type `Control` + `H`.
 ### System Requirements
 
 PHP Installed
-PHP 7.4.12 or above (works best on PHP 8.0.8).
+PHP 7+ (compatible with PHP 8).
 
 **NO SSH access required, ONLY FTP access required.**
 
